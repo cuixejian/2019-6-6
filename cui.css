@@ -181,6 +181,12 @@ a{
 }
 
 /* 底部 */
+.clear{
+	content: "";
+	/* height: 0px; */
+	display: block;
+	clear: both;
+}
 .dibu{
 	/* width:1560px; */
 	height: 247px;
@@ -193,28 +199,58 @@ a{
 	/* border-bottom:1px solid #454545; */
 }
 .ll{
-	/* width:281px; */
-	/* height: 130px; */
-	margin-bottom: 0;
-	margin-left:15px;
-	margin-right:185px;
-	float: left;
+		width:270px;
+		height:130px;
+		float:left;
+		/* margin-left:; */
+}
+.ll p{
+	margin-top: 5px;
+	font-size: 16px;
+	color:#fff;
+}
+.ll ul li{
+	margin-top: 14px;
+	font-size: 14px;
+	color:#fff;
+}
+
+
+
+
+
+
+/*
+.ll{
+ 	/* width:284px;  */
+	/*height: 130px; /*
+	/* margin-bottom: 0; */
+	/* margin-left:195px; */
+	/* margin-right:185px; */
+	/* float: left; */
 	/* background-color: red; */
 }
-.jz p{
+/* .jz p{
 	font-size: 16px;
 	color:#fff;
 	margin-top: 12px;
-}
-.jz li ul{
+} */
+/* .jz li ul{
 	text-align: left;
 	color: #fff;
 	margin-left: 0px;
-	/* line-height: 28px; */
+/* 	line-height: 28px;
 	font-size: 14px;
-}
+} */ 
+
+
+
+
+
+
 .jz li ul li{
 	margin-top:12px;
+	float:left;
 }
 .last{
 	text-align:center;
