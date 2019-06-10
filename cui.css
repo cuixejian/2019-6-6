@@ -9,7 +9,6 @@ a{
 	text-decoration:none;
 }
 .head-warp{
-	/* width:1560px; */
 	height:32px;
 	background-color: #f4f4f4;
 	margin:0 auto ;
@@ -40,7 +39,6 @@ a{
 /* 第二部分 */
 .head1{
 	height: 160px;
-	/* background-color: blue;   */
 	text-decoration:underline;
 	color:red;
 	border-bottom:3px solid #e00304 ;
@@ -49,7 +47,6 @@ a{
 	width: 1200px;
 	height:120px;
 	margin:0 auto;
-	/* background-color: red; */
 }
 .head11 p{
 	margin:40px 0 0 196px;
@@ -79,20 +76,16 @@ a{
 	line-height:40px; 
 	color:#fff;
 	font-size:16px;
-	/* margin:40px 318px 0 0 ;
-	float:right; */
 }
 /* 第三 */
 .nav{
 	width:1200px;
 	height: 40px;
 	margin:0 auto;
-	/* background-color: yellow; */
 }
 .nav p{
 	float: left;
 	font-size:16px;
-	/* color:#333; */
 	line-height:40px;
 	margin:0;
 	float:left;
@@ -114,35 +107,26 @@ a{
 .body{
 	height: 650px;
 	background-color: #fbfbfb;
-	/* background-color:red; */
-	/* margin-left:178px; */
 	margin:0 auto;
 }
 .bob{
 	height:650px;
 	width:1200px;
-	/* background-color: yellow; */
-	/* margin:181px; */
 	margin:0 auto;
-	/* float: left; */
 }
 .bob a{
 	font-size: 14px;
 	color:#333;
-
 }
 .zuo{
 	width:216px;
 	height: 566px;
 	float: left ;
-	/* background-color: green; */
-
 }
 .zuo1{
 	height:44px;
 	line-height:44px;
 	background-color: #fff;
-	/* background-color: red; */
 }
 .zuo1 img{
 	vertical-align:middle;
@@ -150,23 +134,18 @@ a{
 	margin-right: 25px;
 }
 .zuo2{
-	height:80%;
 	line-height:44px;
 	background-color: #fff;
-	/* background-color: red; */
 }
 .zuo a{
 	font-size: 14px;
 	color:#333;
-
 } 
 .you{
 	width:972px;
 	height:560px;
-	/* background-color: yellow; */
 	margin:17px 0 12px 0;
 	float:left;
-	/* margin-right:0px; */
 } 
 .you li{
 	width: 222px;
@@ -185,12 +164,10 @@ a{
 /* 底部 */
 .clear{
 	content: "";
-	/* height: 0px; */
 	display: block;
 	clear: both;
 }
 .dibu{
-	/* width:1560px; */
 	height: 247px;
 	background-color: #2e2e2e;
 }
@@ -198,13 +175,11 @@ a{
 	width: 1200px;
 	height:148px;
 	margin:0 auto;
-	/* border-bottom:1px solid #454545; */
 }
 .ll{
-		width:270px;
-		height:130px;
-		float:left;
-		/* margin-left:; */
+	width:270px;
+	height:130px;
+	float:left;
 }
 .ll p{
 	margin-top: 5px;
@@ -215,8 +190,8 @@ a{
 	margin-top: 14px;
 	font-size: 14px;
 	color:#fff;
+	}
 }
-
 .jz li ul li{
 	margin-top:12px;
 	float:left;
@@ -229,7 +204,6 @@ a{
 .shu{
 	margin-left:8px;
 	margin-right:8px;
-
 }
 
 
